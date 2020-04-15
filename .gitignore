@@ -1,0 +1,5 @@
+data/*
+*.ipyynb
+*.pyc
+.iypnb_checkpoints/*
+figures/*
